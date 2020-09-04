@@ -15,3 +15,18 @@ Abaixo esta a representação da arquitetura alvo do momento, a mesma vai ser at
 ### Gitlab
 
 O Gitlab vai ser a peca inicial do projeto, nele vamos armazenar o projeto em um repositorio, assim como o CI\CD dele.
+
+
+## Requisitos
+
+- VirtualBox
+- Vagrant
+- Terraform
+- Ansible
+- Shell
+
+## TODO
+
+- Debloat das imagens base das VMs
+- Instalacao de pacotes basicos
+- Vagrantfile dinamico
